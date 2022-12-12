@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color:grey;
+    color: black;
+    border:5px solid black ;
+}
+.title::first-letter{
+    font-size: 2em;
+    color: red;
+}
+.for{
+    padding-left: 30%;
+    color: white;
+}
+input{
+    font-size: 50%;
+}
+button{
+    border-radius: 10%;
+    background-color: burlywood;
+    box-shadow: 0 15px 25px crimson;
+    font-size: 100%;
+}
+button:hover{
+    background-color: darkgoldenrod;
+}
+.head{
+    font-size: 250%;
+    color: red;
+}
+#contact{
+    width: 35%; 
+    background-color: white;
+    color: black;
+    margin: 5% auto;
+    fill-opacity: 40%;
+    border-radius: 20%;
+    font-size: 150%;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    background-color: rgb(39 , 84 , 108);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+button{
+    background-color: burlywood;
+    box-shadow: 0 15px 25px crimson;
+    border-radius: 10%;
+    font-size: 100%;
+}
+button:hover{
+    background-color: darkgoldenrod;
+}
+.head{
+    font-size: 250%;
+    color: red;
+}
+#contact{
+    width: 50%; 
+    background-color: white;
+    color: black;
+    margin: 10% auto;
+    fill-opacity: 40%;
+    border-radius: 10%;
+    font-size: 150%;
+}

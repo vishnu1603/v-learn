@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    min-width: fit-content;
+    max-width: 100%;
+    color: black;
+  }
+  #logo{
+    background-color: grey;
+    text-align: center;
+  }
+  #logo::first-letter{
+    font-size: 2em;
+    color: red;
+  }
+  #container{
+    width: 30%;
+    height: 30%;
+    background-color: white ;
+    fill-opacity: 30%;
+    margin: 10% auto;
+    font-size: 150%;
+    border-radius: 20%;
+  }
+  h2{
+    text-align: center;
+  }
